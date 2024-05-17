@@ -1,0 +1,13 @@
+¡Ejercitación de medidas relativas!
+
+Crea una página web con tres secciones: encabezado, contenido principal y pie de página. Utiliza medidas relativas para definir el tamaño de los elementos en cada sección.
+
+En el encabezado, crea un título principal <h1> con el texto "Mi página web" y utiliza una medida relativa para establecer el tamaño del título de manera que sea el doble del tamaño del texto normal.
+
+En el contenido principal, crea un párrafo <p> con un texto de tu elección y utiliza una medida relativa para establecer el tamaño del párrafo al 150% del tamaño del texto normal.
+
+Dentro del contenido principal, agrega una imagen <img> de tu elección y utiliza una medida relativa para establecer el ancho de la imagen al 75% del ancho del contenedor principal.
+
+En el pie de página, crea un enlace <a> con el texto "Volver arriba" y utiliza una medida relativa para establecer el tamaño del enlace al 120% del tamaño del texto normal.
+
+Recuerda utilizar diferentes unidades de medidas relativas como em, rem, %, vh y vw en cada caso y comenta en el código el tipo de medida que estás utilizando.
